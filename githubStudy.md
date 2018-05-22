@@ -96,7 +96,7 @@
 => 왜냐하면, 기트허브에서 코딩을 할 수 없지 않는가?ㅋㅋㅋㅋ
 => 그러니, 기트허브에서 만든 것을 내려받아서 수정하고, 다시 올리는 작업만 먼저 해볼꺼다.
 => 더 복잡한 것은 추후에, 우선은 이것만 익숙해지자.
-=> $ git clone https://github.com/rihun-kim/githubStudy 이런식으로 쓰면 
+=> $ git clone https://github.com/rihun-kim/Study 이런식으로 쓰면 
 => 내가 git init 해논 곳으로 기트허브 내용들이 저장된다!!! 꺄옷!!ㅋㅋㅋ
 
 13. 기본적으로 이해해야할 커밋과정
@@ -125,7 +125,14 @@
 => 단 git remote add origin 원격서버주소 먼저 원격서버주소를 설정한다음에 해라
 => 이 정도 까지만 해서 익숙해지자. ㅇㅋ?
 
-
+17. 그래서 지금까지 필요한 훈련과정은 이거다.
+=> 기트허브에서 레포지토리 만들기
+=> 깃프로그램에서 git clone 으로 해당 레포지토리 복제하기
+=> 로컬에서 파일 수정하기
+=> git add 을 통해 index 영역으로 옮기기
+=> git commit 을 통해 HEAD 영역으로 옮기기
+=> git push origin master 로 기트허브로 옮기기
+=> 원격저장소 위치 수정은 git remote add origin https://github.com/rihun-kim/Study 이런식으로 ㅇㅋ?
 
 
 
