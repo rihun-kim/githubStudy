@@ -137,6 +137,8 @@
 18. 기트 add 한 목록 살펴보는 명령어
 => git status
 
+19. 원격저장소 목록 보는 법
+=> git remote show origin
 
 
 
