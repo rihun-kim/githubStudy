@@ -134,7 +134,8 @@
 => git push origin master 로 기트허브로 옮기기
 => 원격저장소 위치 수정은 git remote add origin https://github.com/rihun-kim/Study 이런식으로 ㅇㅋ?
 
-
+18. 기트 add 한 목록 살펴보는 명령어
+=> git status
 
 
 
