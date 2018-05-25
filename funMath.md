@@ -12,7 +12,7 @@ https://www.desmos.com/calculator
 여기가 이쁘게 그래프 그려줌
 
 
-#3 라마누잡합
+#3 라마누잔합
 우리를 한 차원 더 높은 생각을 하도록 돕는 급수
 
 https://namu.wiki/w/%EB%9D%BC%EB%A7%88%EB%88%84%EC%9E%94%ED%95%A9
